@@ -1,0 +1,7 @@
+# Ignore Visual Studio cache
+.vs/
+*.vsidx
+
+# Ignore Python cache
+__pycache__/
+*.pyc
